@@ -1,0 +1,114 @@
+/* 重置 Vant UI css样式 */
+
+.tabBtnWrap .van-tab{
+    font-size: .35rem;
+}
+.goodsColumn_wrap .van-grid-item__text{
+    font-size: .32rem;
+}
+.goodsColumn_wrap .van-icon__image{
+    width: 1.45rem;height: 1.45rem;
+}
+
+.GoodsList_wrap .van-grid-item__text{
+    font-size: .37333rem;
+}
+
+.GoodsList_wrap .van-icon{
+    width: 2.88rem;
+    height: 2.88rem;
+    background: #F5F5F5;
+    border-radius: 4px;
+    margin-bottom: .16rem;
+}
+
+.GoodsList_wrap .van-icon__image{
+    width: 2.88rem;
+    height: 2.88rem;
+}
+
+
+/* 自定义 footer条 */
+/*字体大小*/
+.footerDiv .van-tabbar-item__text{
+    font-size: .32rem;
+}
+/*高度*/
+.footerDiv .van-tabbar{
+    height: 1.30667rem;
+}
+/*icon大小*/
+.footerDiv .van-icon{
+    height: .53333rem;
+    font-size: .53333rem;
+}
+
+/*侧边栏*/
+.sidebarClass .van-sidebar-item__text{
+    white-space: nowrap;
+    font-size: .37333rem;
+    text-overflow: ellipsis;
+    line-height: .66667rem;
+        color: #333;
+}
+.sidebarClass .van-sidebar{
+    width: 2.16rem;
+}
+
+/* goodsActionClass */
+.goodsActionClass .van-button__text,
+.goodsActionClass .van-goods-action-icon,
+.goodsActionClass .van-goods-action-icon__icon{
+    font-size: .37333rem;
+}
+.goodsActionClass .van-goods-action-button{
+    height: 1.38667rem;
+}
+
+/* 导航栏 */
+.navBarClass .van-nav-bar__title{
+    font-size: .5rem;padding-top: 23px;
+}
+.navBarClass .van-nav-bar{
+    height: 1.17333rem;
+}
+
+/* sku */
+.skuClass .van-sku__price-symbol,
+.skuClass .van-sku__price-num,
+.skuClass .van-sku__stock,
+.skuClass .van-sku-header-item,
+.skuClass .van-sku-row__title,
+.skuClass .van-sku-row__item-name,
+.skuClass .van-sku-stepper-container,
+.skuClass .van-cell,
+.skuClass .van-stepper__input,
+.skuClass .van-button__text{
+    font-size: .37333rem;
+}
+
+.skuClass .van-stepper__minus, 
+.skuClass .van-stepper__plus,
+.skuClass .van-stepper__input{
+    width: .6rem;height: .6rem;
+}
+
+.skuClass .van-sku-actions .van-button{
+    height: 1.28rem;
+    line-height: 1.28rem;
+}
+
+/* sku 请先选择商品规格 */
+.van-toast__text{
+    font-size: .5rem;
+}
+
+/*login 登录 页*/
+.btnWrap .van-button--normal{
+    font-size: .37333rem;
+}
+
+.btnWrap .van-icon__image{
+    width: .53333rem;
+    height: .53333rem;
+}
